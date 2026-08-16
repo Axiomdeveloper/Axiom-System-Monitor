@@ -1,8 +1,21 @@
 # Axiom System Monitor
 ### مانیتور حرفه‌ای سیستم
-<a href="README_EN.md">
-  <img src="https://img.shields.io/badge/🇬🇧%20English-README_EN-blue?style=for-the-badge" alt="English README">
+
+<div align="center">
+
+<a href="README.md">
+<img src="https://img.shields.io/badge/🇮🇷%20فارسی-README-green?style=for-the-badge">
 </a>
+
+<a href="README_EN.md">
+<img src="https://img.shields.io/badge/🇬🇧%20English-README-blue?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Axiomdeveloper/Axiom-System-Monitor/releases">
+<img src="https://img.shields.io/badge/🚀%20Download-Releases-red?style=for-the-badge&logo=github">
+</a>
+
+</div>
 
 
 این پروژه با کلاد ساخته شده
