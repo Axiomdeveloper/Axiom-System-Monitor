@@ -1,6 +1,6 @@
 # Axiom System Monitor
 ### مانیتور حرفه‌ای سیستم
-https://github.com/Axiomdeveloper/Axiom-System-Monitor/blob/main/README_EN.md English Readme
+https://github.com/Axiomdeveloper/Axiom-System-Monitor/blob/main/README_EN.md English Readme 
 
 یک برنامه دسکتاپ برای نمایش زنده و لحظه‌ای وضعیت سیستم — شبیه Task Manager — با رابط کاربری کاملاً **فارسی** و **راست‌چین**، ساخته‌شده با Python و Tkinter.
 
