@@ -1,6 +1,12 @@
 # Axiom System Monitor
 ### Professional System Monitor (Persian UI)
 
+<a href="README.md">
+  <img src="https://img.shields.io/badge/🇮🇷%20فارسی-README_FA-green?style=for-the-badge" alt="Persian README">
+</a>
+
+
+
 A desktop application that displays live, real system information — similar to Task Manager — with a fully **Persian (Farsi)** and **right-to-left (RTL)** user interface, built with Python and Tkinter.
 
 ---
