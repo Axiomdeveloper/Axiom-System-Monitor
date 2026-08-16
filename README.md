@@ -3,7 +3,10 @@
 <a href="README_EN.md">
   <img src="https://img.shields.io/badge/🇬🇧%20English-README_EN-blue?style=for-the-badge" alt="English README">
 </a>
+
+
 این پروژه با کلاد ساخته شده
+
 
 یک برنامه دسکتاپ برای نمایش زنده و لحظه‌ای وضعیت سیستم — شبیه Task Manager — با رابط کاربری کاملاً **فارسی** و **راست‌چین**، ساخته‌شده با Python و Tkinter.
 
